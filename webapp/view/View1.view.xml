@@ -2,6 +2,7 @@
     <Page id="page" title="{i18n>title}">
     <content>
         <Button xmlns="sap.m" text="SAP BTP CI/CD and GitHub" id="button1"/>
+        <Button xmlns="sap.m" text="New button added in SAP BAS" id="button0"/>
     </content>
     </Page>
 </mvc:View>
