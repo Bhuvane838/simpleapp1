@@ -3,6 +3,7 @@
     <content>
         <Button xmlns="sap.m" text="SAP BTP CI/CD and GitHub" id="button1"/>
         <Button xmlns="sap.m" text="New button added in SAP BAS" id="button0"/>
+        <Button xmlns="sap.m" text="Button added on 20 Feb in BAS" id="button0_1771551362997"/>
     </content>
     </Page>
 </mvc:View>
